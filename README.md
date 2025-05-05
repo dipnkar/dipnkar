@@ -54,7 +54,7 @@ Welcome to my GitHub profile! I'm a passionate creative and tech enthusiast who 
 
 ## 📫 Let's Connect
 
-- 🌐 [My Website / Portfolio]([#](https://deepixel.netlify.app/))  
+- 🌐 [My Website / Portfolio]([https://deepixel.netlify.app/])
 - 💼 [LinkedIn](#)  
 - 📸 [Instagram](#)  
 - 📨 Email: raulodipankar@gmail.com
