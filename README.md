@@ -1,87 +1,86 @@
-<h1 align="center">Hi 👋, I'm Dipankar Raulo</h1>
+<h1 align="center">🎨 Dipankar Raulo</h1>
+<h3 align="center">UI/UX Designer • Front-End Developer • Digital Marketer</h3>
 
 <p align="center">
-  🎨 UI/UX Designer • 💻 Web Developer • 📈 Digital Marketer  
+  <a href="https://deepixel.netlify.app/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Visit-My Portfolio-ff6363?style=for-the-badge&logo=webflow&logoColor=white" />
+  </a>
+  <a href="mailto:raulodipankar@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact Me-blue?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
+
+---
+
+### 🧠 Who Am I?
+
+I'm a **multidisciplinary designer & developer** passionate about blending clean UI with modern web tech to build meaningful experiences.
+
+- 🖌️ Crafting beautiful & functional **UI/UX Designs**
+- 💻 Developing **front-end websites** & dashboards
+- 📈 Running **marketing campaigns** that convert
+- 🚀 Always learning & experimenting with new tools
+
+---
+
+### 🔧 Skills & Tools
+
+#### 💻 Development
+`HTML5` • `CSS3` • `JavaScript` • `PHP`  
+`MySQL` • `MongoDB` • `WordPress`
+
+#### 🎨 Design
+`Figma` • `Adobe Photoshop` • `Illustrator`  
+`After Effects` • `Premiere Pro`
+
+#### 📊 Marketing
+`Meta Ads` • `Google Ads` • `SEO/SEM`  
+`Analytics` • `Social Media Strategy`
+
+---
+
+### ✨ Signature Projects
+
+| Project                     | Type         | Highlights |
+|----------------------------|--------------|------------|
+| 🔗 **Contact Tree**         | Web          | Personal Linktree-style site |
+| 🧾 **WhatsApp Cloud API**   | Web App      | Send & receive messages via WhatsApp |
+| 🗣️ **Naina AI**             | Voice AI     | Voice-enabled intelligent assistant |
+| 🆔 **ID Card Generator**    | Utility Tool | Real-time ID card creation |
+| 🍽️ **Restaurant Page**      | Landing Page | Sleek modern design for F&B |
+| 💼 **[My Portfolio](https://deepixel.netlify.app/)** | Personal | Full showcase of my digital presence |
+
+---
+
+### 🎨 UI/UX Projects (Case Studies)
+
+- 💸 Fintech Mobile App  
+- 🏦 Loan Journey UX Flow  
+- 📋 Project Management Dashboard  
+- 🧠 Data Center Landing Page UI
+
+---
+
+### 📈 Social & Branding Work
+
+- Social Media Designs & Motion Graphics  
+- Reels, Edits, YouTube Promos  
+- Brand Identity & Engagement Campaigns  
+
+---
+
+### 🌐 Let's Connect
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Portfolio-deepixel.netlify.app-0bceaf?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LinkedIn-Coming Soon-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/Instagram-Coming Soon-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</p>
+
+---
+
+> _“Design adds value faster than it adds cost.” – Joel Spolsky_
 
 <p align="center">
-  <a href="https://deepixel.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-deepixel.netlify.app-9cf?style=for-the-badge"></a>
-  <a href="mailto:raulodipankar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ff4c60?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  ⭐ Thanks for visiting my profile! ⭐
 </p>
-
----
-
-## 🚀 About Me
-
-- 🌱 Exploring **Full-Stack Web Development**
-- 💼 Freelancing in **UI/UX**, **Web Design**, **Graphic Design**, and **Digital Marketing**
-- 🧠 Passionate about design systems, clean UI, and human-centered products
-- 📍 Based in India
-
----
-
-## 🛠️ Skills & Tools
-
-### 💻 Development
-![HTML](https://img.shields.io/badge/HTML-90%25-orange?style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-90%25-blue?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-50%25-yellow?style=flat-square)
-![PHP](https://img.shields.io/badge/PHP-lightgrey?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square)
-
-### 🎨 Design & Motion
-![Figma](https://img.shields.io/badge/Figma-95%25-critical?style=flat-square)
-![Photoshop](https://img.shields.io/badge/Photoshop-90%25-blue?style=flat-square)
-![Illustrator](https://img.shields.io/badge/Illustrator-90%25-orange?style=flat-square)
-![After Effects](https://img.shields.io/badge/AfterEffects-70%25-purple?style=flat-square)
-
-### 📈 Marketing
-![SEO](https://img.shields.io/badge/SEO/SEM-60%25-green?style=flat-square)
-![WordPress](https://img.shields.io/badge/WordPress-95%25-blueviolet?style=flat-square)
-![Meta Ads](https://img.shields.io/badge/Meta%20Ads-Active-lightblue?style=flat-square)
-
----
-
-## 📂 Featured Projects
-
-### 🌐 Web & AI Projects
-
-| Project                        | Description                                                                 |
-|-------------------------------|-----------------------------------------------------------------------------|
-| 🔗 **Contact Tree**           | A minimal Linktree-style multi-profile sharer                              |
-| 🆔 **ID Card Generator**      | Create downloadable ID cards from form data                                |
-| 🧾 **WhatsApp Cloud API**     | A full-featured platform for sending messages via WhatsApp Cloud API       |
-| 🗣️ **Naina AI**               | Voice-enabled intelligent assistant for smart interactions (AI + Speech)   |
-| 🍴 **Restaurant Landing Page**| Clean and engaging UI for food business branding                           |
-| 💼 **Portfolio Website**      | [View Site](https://deepixel.netlify.app/) – Personal portfolio site       |
-
-### 🎨 UI/UX Case Studies
-
-- 📱 Fintech Mobile App UI  
-- 🖥️ Loan Journey Website  
-- 🗂️ Project Management Dashboard (Jira-style UI)  
-- 🧠 Data Center Landing Page
-
-### 📊 Digital & Creative Work
-
-- 🎨 Social Media Campaigns & Reels  
-- 📽️ Motion Graphics & YouTube Edits  
-- 📈 Lead Generation, Engagement Ads, SEO Projects
-
----
-
-## 📫 Let's Connect
-
-<p>
-  🌐 <a href="https://deepixel.netlify.app/">Portfolio Website</a> •  
-  💼 <a href="#">LinkedIn</a> •  
-  📸 <a href="#">Instagram</a> •  
-  📧 raulodipankar@gmail.com
-</p>
-
----
-
-> _“Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs_
-
-<p align="center">Thanks for visiting! ⭐</p>
