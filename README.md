@@ -33,11 +33,12 @@ Welcome to my GitHub profile! I'm a passionate creative and tech enthusiast who 
 ## 📂 Featured Projects
 
 ### 🌐 Web Projects
-- 🔗 [Contact Tree] – A mini Linktree-style profile sharer  
-- 🆔 [ID Card Generator] – Create custom ID cards from form data  
-- 🧾 [WhatsApp Cloud API Platform] – Send and manage messages via WhatsApp API  
-- 🍴 [Restaurant Landing Page] – Beautiful UI for restaurant branding  
-- 💼 [Portfolio Website] – My personal portfolio showcasing all work
+- 🔗 [Contact Tree](#) – A mini Linktree-style profile sharer  
+- 🆔 [ID Card Generator](#) – Create custom ID cards from form data  
+- 🧾 [WhatsApp Cloud API Platform](#) – Send and manage messages via WhatsApp API
+-  🗣️ [Naina AI](https://nainaai.netlify.app/) – Voice-enabled intelligent assistant for seamless human-AI interaction 
+- 🍴 [Restaurant Landing Page](#) – Beautiful UI for restaurant branding  
+- 💼 [Portfolio Website](https://deepixel.netlify.app/) – My personal portfolio showcasing all work
 
 ### 🎨 UI/UX Projects
 - 📱 Fintech Mobile App UI  
@@ -54,9 +55,9 @@ Welcome to my GitHub profile! I'm a passionate creative and tech enthusiast who 
 
 ## 📫 Let's Connect
 
-- 🌐 [My Website / Portfolio]([https://deepixel.netlify.app/])
-- 💼 [LinkedIn](#)  
-- 📸 [Instagram](#)  
+- 🌐 [deepixel.netlify.app](https://deepixel.netlify.app/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/dipankarraulo/)  
+- 📸 [Instagram](https://www.instagram.com/the.deepixel)  
 - 📨 Email: raulodipankar@gmail.com
 
 ---
